@@ -5,5 +5,5 @@
 ***
 
 ### Spring & Spring Boot
-- [211016 / git,slack 세팅]()
+- [211016 / git,slack 세팅](https://github.com/HOONITANG/TIL/blob/main/2021/10.16.md)
 <br>
